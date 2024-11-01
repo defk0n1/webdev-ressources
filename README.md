@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src='logo.png'>
   </br>
   <h6>Supcom Junior Entreprise - Projects Department</h6>
   <h3>Web Development Resources</h3>
