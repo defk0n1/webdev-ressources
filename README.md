@@ -1,7 +1,7 @@
 <div align="center">
 
   </br>
-  <h6>Web Development Resources h6>
+  <h6>Web Development Resources </h6>
   <h3>Supcom Junior Entreprise - Projects Department</h3>
   </br>
 </div>
