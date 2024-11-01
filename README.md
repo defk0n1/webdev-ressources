@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='LOGO PALESTINE.png'>
+  <img src='sje_logo.png'>
   </br>
   <h6>Supcom Junior Entreprise - Projects Department</h6>
   <h3>Web Development Resources</h3>
